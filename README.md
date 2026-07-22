@@ -1,15 +1,6 @@
-# FlyRank Capstone
+## Setup
 
-This repository contains my AI-assisted development capstone.
-
-## Tech Stack
-
-- Node.js (LTS)
-- JavaScript
-- Git
-- GitHub
-- VS Code + Claude Code
-
-## Goal
-
-Learn AI-assisted software development using Claude Code.
+1. Clone the repository
+2. Install Node.js
+3. Open the project in VS Code
+4. Run Claude Code
